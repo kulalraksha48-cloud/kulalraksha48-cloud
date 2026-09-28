@@ -44,7 +44,7 @@ improving my problem-solving and development skills.
 ## Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,javascript,html,css,react,fastapi,firebase,git,github,sklearn" />
+  <img src="https://skillicons.dev/icons?i=c,python,javascript,html,css,firebase,git,github" />
 </p>
 
 ---
